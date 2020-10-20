@@ -1,2 +1,2 @@
-insert into languages (id, text, done) values (1, 'mock 1', true);
-insert into languages (id, text, done) values (2, 'mock 2', true);
+insert into todos (text, done) values ('done todo', 1);
+insert into todos (text, done) values ('undone todo', 0);
